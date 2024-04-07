@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\11\source\repos\Laba6\Main.cpp(14,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\11\source\repos\Laba6\Main.cpp(109,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\11\source\repos\Laba6\Main.cpp(130,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\11\source\repos\Laba6\Main.cpp(94,40): warning C4101:  e: неиспользованная локальная переменная
+  Laba6.vcxproj -> C:\Users\11\source\repos\Laba6\Debug\Laba6.exe
